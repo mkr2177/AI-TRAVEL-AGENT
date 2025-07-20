@@ -1,7 +1,7 @@
 import requests
 from langchain_core.tools import tool
 
-SERPER_API_KEY = "178a6bbb9101a72fd493a21759a58fd073fdcb9d"
+SERPER_API_KEY = "YOUR API KEY"
 
 @tool
 def get_hotels(city: str) -> str:
