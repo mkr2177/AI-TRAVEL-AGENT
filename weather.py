@@ -1,7 +1,7 @@
 import requests
 from langchain_core.tools import tool
 
-WEATHER_API_KEY = "e1dce3f7088c640e8cf42b6d4f1fc204"
+WEATHER_API_KEY = "YOUR API KEY"
 
 @tool
 def get_weather_data(city: str) -> str:
