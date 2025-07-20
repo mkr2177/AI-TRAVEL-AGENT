@@ -37,3 +37,20 @@ This app uses a **LangChain Agent** (LLM-powered) that:
 | Hotels       | Serper.dev API            |
 | Search       | DuckDuckGo Search API     |
 | Memory       | Local JSON storage        |
+
+## 📸 Demo Screenshots
+
+### 🖼️ App Preview
+
+![Screenshot 1](Screenshot%20(1392).png)
+![Screenshot 2](Screenshot%20(1393).png)
+![Screenshot 3](Screenshot%20(1394).png)
+![Screenshot 4](Screenshot%20(1395).png)
+![Screenshot 5](Screenshot%20(1396).png)
+![Screenshot 6](Screenshot%20(1397).png)
+![Screenshot 7](Screenshot%20(1398).png)
+![Screenshot 8](Screenshot%20(1399).png)
+![Screenshot 9](Screenshot%20(1400).png)
+![Screenshot 10](Screenshot%20(1401).png)
+![Screenshot 11](Screenshot%20(1402).png)
+![Screenshot 12](Screenshot%20(1403).png)
