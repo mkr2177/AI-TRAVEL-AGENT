@@ -41,7 +41,6 @@ This app uses a **LangChain Agent** (LLM-powered) that:
 ## 📸 Demo Screenshots
 
 ### 🖼️ App Preview
-
 ![Screenshot 1](Screenshot%20(1392).png)
 ![Screenshot 2](Screenshot%20(1393).png)
 ![Screenshot 3](Screenshot%20(1394).png)
